@@ -1,0 +1,24 @@
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+task_scheduler_env/
+
+# SQLite database files
+*.db
+
+# Logs
+logs/
+*.log
+
+# .env file
+*.env
+.env
+
+# Miscellaneous
+*.swp
+.DS_Store
